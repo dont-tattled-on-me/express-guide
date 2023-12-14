@@ -26,3 +26,5 @@ npm i express dotenv nodemon
   ...
 }
 ```
+
+4. Create file name `app.js` in root of your project
